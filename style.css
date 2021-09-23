@@ -20,7 +20,7 @@ body {
 .genius {
   display: grid;
   grid-template-areas: 'green red' 'yellow blue';
-  grid-gap: 1rem;
+  grid-gap: 0.5rem;
   border: 0.1rem solid #ffffff;
   background-color: #ffffff;
   border-radius: 100%;
